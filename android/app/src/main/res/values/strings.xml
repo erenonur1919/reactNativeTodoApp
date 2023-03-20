@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoApp2</string>
+    <string name="notification_channel_name">My App Notifications</string>
+    <string name="notification_channel_description">Notifications from My App</string>
+</resources>
